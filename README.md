@@ -1,4 +1,4 @@
-# Rishav'S Classplus Videos Downloader via Text File
+# Aman'S Classplus Videos Downloader via Text File
 
 ## How to Deploy? 🤔. you can deploy over Heroku or your VPS too.
 1. First Click on Star
